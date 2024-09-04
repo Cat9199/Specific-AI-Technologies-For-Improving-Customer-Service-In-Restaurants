@@ -128,8 +128,6 @@ The Dashboard provides a control panel for restaurant managers to monitor and ma
    **What It Does**: Shows the history of customer interactions, including chat messages and voice conversations.
    - **Example**: A manager can review past conversations between customers and the system to understand common queries and issues.
 
----
-Certainly! Here’s a detailed overview of the AI models used in the Zajil system, including their functions, technologies, and significance, as well as a description of the lifecycle and functionalities. I've also included a table format for the database schema.
 
 ---
 
